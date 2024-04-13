@@ -2,8 +2,10 @@
 Ejercicios de JavaScript donde se trabajarán variables let y const, método prompt(), console.log(), y concatenación
 
 
+
 ### ejercicio1
 Definir variable nombre e imprimir tu nombre en la consola.
+
 
 
 ### ejercicio2
@@ -16,6 +18,7 @@ consola:
 Hola, Juan!
 
 
+
 ### ejercicio3
 Declarar y asignar una variable llamada numero1 y numero2, en la consola debes imprimir la suma de ambos números. 
 Nota: La suma debe calcularse utilizando las variables numero1 y numero2 en
@@ -23,6 +26,7 @@ lugar de valores fijos.
 En la consola se espera obtener el siguiente resultado:
 (NO uses template literals)
 La suma entre 5 y 8 es 13
+
 
 
 ### ejercicio4
@@ -35,6 +39,8 @@ Asumiendo que el año actual ( currentYear ) es 2024, si el usuario ingresa el
 nombre "Juan" y el año de nacimiento 2006, se espera recibir el mensaje:
 Nota: Guarda la edad en una variable
 Hola Pepe, Tienes 18 años
+
+
 
 
 ### ejercicio5
