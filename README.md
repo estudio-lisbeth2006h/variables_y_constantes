@@ -37,7 +37,7 @@ Nota: Guarda la edad en una variable
 Hola Pepe, Tienes 18 años
 
 
-### ejrcicio5
+### ejercicio5
 El índice de masa corporal (IMC), o BMI por sus siglas en inglés, es un valor
 que determina la cantidad de grasa de una persona.
 El BMI se calcula con la siguiente formula:
